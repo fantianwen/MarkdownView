@@ -12,7 +12,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 public class MarkdownDataActivity extends AppCompatActivity {
-
+	
 	private EditText markdownEditText;
 	private MarkdownView markdownView;
 
